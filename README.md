@@ -1,5 +1,7 @@
 # RetroArch-problematic-cheevos
 
+## UPDATE: after the latest RetroArch fixes (01/Nov/2016) many of these problematic cheevos are already solved!
+
 A place to put the savestates of games with cheevos problems when running in RetroArch and no problems in "oficial" emulators.
 
 ### The idea of this repository is to provide useful savestates to help RetroArch developers solve problems with achievements that don't work in RetroArch AND work fine in the oficial RetroAchievements.org emulators. Only this!

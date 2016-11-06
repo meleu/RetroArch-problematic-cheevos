@@ -1,5 +1,5 @@
 Demon´s Crest (SNES)
-=================
+====================
 
 
 Description of the states:

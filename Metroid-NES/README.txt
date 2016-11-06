@@ -1,6 +1,11 @@
 Metroid (NES)
 =============
 
+=========================================================================================
+THESE PROBLEMS SEEMS TO BE ALREADY SOLVED AFTER THE LATEST RETROARCH FIXES (01/Nov/2016),
+BUT IT'S WORKING WITH THE QUICKNES CORE ONLY.
+=========================================================================================
+
 These states were saved in RANES. Provided by the RetroAchievements.org user RideTheSkies.
 
 

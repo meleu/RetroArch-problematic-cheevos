@@ -15,7 +15,7 @@ The structure is:
 
 ## Notes / Changelog
 
-- **2016-Nov-01**: The Castlevania, Double Dragon, Felix the Cat (NES) cheevos problems were all solved after the fixes.
+- **2016-Nov-01**: The Castlevania, Double Dragon, Felix the Cat (NES) cheevos problems were all solved after the fixes **Probably most of the problematic cheevos were solved**.
 
 - **2016-Nov-05**: The Metroid cheevos currently (6/November/2016) work with the QuickNES core only.
 

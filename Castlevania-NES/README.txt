@@ -1,7 +1,9 @@
 Castlevania (NES)
 =================
 
+=========================================================================================
 THESE PROBLEMS SEEMS TO BE ALREADY SOLVED AFTER THE LATEST RETROARCH FIXES (01/Nov/2016).
+=========================================================================================
 
 The problematic achievements in Castlevania are the hidden items.
 

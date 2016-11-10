@@ -91,7 +91,8 @@ Seems to be working fine, but need more tests.
 
 ### VBA next
 
-Has issues.
+Doesn't work OK.
+"vba-next doesn't support the memory map interface, so achievements won't work ok with it." - @leiradel
 
 
 ### VBA-M

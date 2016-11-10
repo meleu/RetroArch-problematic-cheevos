@@ -77,6 +77,11 @@ Untested.
 Working, but has issues.
 
 
+### mGBA
+
+Although mGBA can play Game Boy/Game Boy Color ROMs, it does **NOT** suport cheevos for these systems (only for Game Boy Advance).
+
+
 ## Game Boy Advance
 
 ### mGBA
@@ -87,6 +92,11 @@ Seems to be working fine, but need more tests.
 ### VBA next
 
 Has issues.
+
+
+### VBA-M
+
+Seems to be working fine, but need more tests.
 
 
 ## PC Engine

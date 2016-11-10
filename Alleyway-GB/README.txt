@@ -1,7 +1,3 @@
-Savestate should unlock bonus and then stage 7
+This savestate should unlock second bonus round and then the reach stage 7 achievement.
 
-Achivements
-Clear the second bonus stage
-Reach stage 7
-
-I need to check these work in offical Emulator
+There are reports on Retroachievements that not all these achievements work but Stage 7 does work on offical emulator.

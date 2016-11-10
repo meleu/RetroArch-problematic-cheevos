@@ -5,6 +5,8 @@ This is an attempt to make a compatibility list of libretro cores and RetroAchie
 - [NES](#nes)
 - [MegaDrive / Genesis](#megadrivegenesis)
 - [SNES](#snes)
+- [Game Boy/Game Boy Color](#game-boygame-boy-color)
+- [Game Boy Advance](#game-boy-advance)
 - [PC Engine](#pc-engine)
 
 ## NES
@@ -50,7 +52,7 @@ Untested.
 
 ### Snes9x 2010 (previously called SNES9x Next)
 
-Needs more tests after the fixes.
+Seems to be working fine, but needs more tests after the fixes.
 
 
 ### Snes9x 2002 (previously called PocketSNES)
@@ -66,6 +68,25 @@ Untested.
 ### Snes9x (from [this repository](https://github.com/libretro/snes9x))
 
 Untested.
+
+
+## Game Boy/Game Boy Color
+
+### gambatte
+
+Working, but has issues.
+
+
+## Game Boy Advance
+
+### mGBA
+
+Seems to be working fine, but need more tests.
+
+
+### VBA next
+
+Has issues.
 
 
 ## PC Engine

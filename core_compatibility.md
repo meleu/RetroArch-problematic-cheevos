@@ -5,7 +5,7 @@ This is an attempt to make a compatibility list of libretro cores and RetroAchie
 - [NES](#nes)
 - [MegaDrive / Genesis](#megadrivegenesis)
 - [SNES](#snes)
-- [Game Boy/Game Boy Color](#game-boygame-boy-color)
+- [Game Boy / Game Boy Color](#game-boygame-boy-color)
 - [Game Boy Advance](#game-boy-advance)
 - [PC Engine](#pc-engine)
 

@@ -13,7 +13,7 @@ This is an attempt to make a compatibility list of libretro cores and RetroAchie
 
 ### QuickNES
 
-The QuickNES seems to be the NES core with the best compatibility. No problems related to RetroAchievements were found in this core after the fixes.
+The QuickNES seems to be the NES core with the best compatibility. No problems related to RetroAchievements were found in this core after the 05-Nov-2016 fixes.
 
 
 ### FCEUmm
@@ -52,7 +52,7 @@ Untested.
 
 ### Snes9x 2010 (previously called SNES9x Next)
 
-Seems to be working fine, but needs more tests after the fixes.
+Seems to be working fine, but needs more tests after the 05-Nov-2016 fixes.
 
 
 ### Snes9x 2002 (previously called PocketSNES)

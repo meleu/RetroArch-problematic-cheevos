@@ -3,11 +3,27 @@
 This is an attempt to make a compatibility list of libretro cores and RetroAchievements. If you want to contribute, please, updated your RetroArch to get the latest (2016/November/05) fixes on the RetroAchievements feature.
 
 - [NES](#nes)
+  - [QuickNES](#quicknes)
+  - [FCEUmm](#fceumm)
+  - [Nestopia](#nestopia)
 - [MegaDrive / Genesis](#megadrivegenesis)
+  - [picodrive](#picodrive)
+  - [Genesis Plus GX](#genesis-plus-gx)
 - [SNES](#snes)
+  - [Snes9x 2010](#snes9x-2010)
+  - [Snes9x 2005](#snes9x-2005)
+  - [Snes9x 2002](#snes9x-2002)
+  - [Snes9x](#snes9x)  
 - [Game Boy / Game Boy Color](#game-boygame-boy-color)
+  - [gambatte](#gambatte)
+  - [mGBA](#mgba)
 - [Game Boy Advance](#game-boy-advance)
+  - [mGBA](#mgba)
+  - [VBA Next](#vba-next)
+  - [VBA-M](#vba-m)
 - [PC Engine](#pc-engine)
+  - [Beetle PCE Fast](#beetle-pce-fast)
+
 
 ## NES
 
@@ -50,22 +66,26 @@ Untested.
 
 ## SNES
 
-### Snes9x 2010 (previously called SNES9x Next)
+### Snes9x 2010
+*(previously called SNES9x Next)*
 
 Seems to be working fine, but needs more tests after the 05-Nov-2016 fixes.
 
 
-### Snes9x 2002 (previously called PocketSNES)
+### Snes9x 2002
+*(previously called PocketSNES)*
 
 Untested.
 
 
-### Snes9x 2005 (previously called CAT SFC)
+### Snes9x 2005
+*(previously called CAT SFC)*
 
 Untested.
 
 
-### Snes9x (from [this repository](https://github.com/libretro/snes9x))
+### Snes9x
+*(from [this repository](https://github.com/libretro/snes9x))*
 
 Untested.
 
@@ -74,7 +94,7 @@ Untested.
 
 ### gambatte
 
-Working, but has issues.
+Received a fix on 12-November-2016 and then seems to be working fine.
 
 
 ### mGBA
@@ -103,6 +123,7 @@ Seems to be working fine, but need more tests.
 
 ## PC Engine
 
-### Beetle PCE Fast (from [this repository](https://github.com/libretro/beetle-pce-fast-libretro))
+### Beetle PCE Fast
+*(from [this repository](https://github.com/libretro/beetle-pce-fast-libretro))*
 
 Working fine.

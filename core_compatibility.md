@@ -18,7 +18,7 @@ This is an attempt to make a compatibility list of libretro cores and RetroAchie
   - [gambatte](#gambatte)
   - [mGBA](#mgba)
 - [Game Boy Advance](#game-boy-advance)
-  - [mGBA](#mgba)
+  - [mGBA](#mgba-1)
   - [VBA Next](#vba-next)
   - [VBA-M](#vba-m)
 - [PC Engine](#pc-engine)
@@ -72,14 +72,14 @@ Untested.
 Seems to be working fine, but needs more tests after the 05-Nov-2016 fixes.
 
 
-### Snes9x 2002
-*(previously called PocketSNES)*
+### Snes9x 2005
+*(previously called CAT SFC)*
 
 Untested.
 
 
-### Snes9x 2005
-*(previously called CAT SFC)*
+### Snes9x 2002
+*(previously called PocketSNES)*
 
 Untested.
 

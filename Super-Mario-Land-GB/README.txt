@@ -1,7 +1,11 @@
 Super Mario Land (Gameboy)
 ==========================
 
-I build RetroArch from source on the 8th Nov and im using Gambette emulator.
+=========================================================================================
+  THESE PROBLEMS SEEMS TO BE ALREADY SOLVED AFTER THE LATEST GAMBATTE FIX (12/Nov/2016).
+=========================================================================================
+
+I build RetroArch from source on the 8th Nov and im using Gambatte emulator.
 
 Save state 0
 Collect 50 Coins

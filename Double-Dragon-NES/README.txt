@@ -1,6 +1,10 @@
 Double Dragon (NES) 
 ===================
 
+=========================================================================================
+THESE PROBLEMS SEEMS TO BE ALREADY SOLVED AFTER THE LATEST RETROARCH FIXES (01/Nov/2016).
+=========================================================================================
+
 The Achievements for "Obtain Weapon" don't work in RetroArch, but work fine in RANES (oficial emulator).
 
 Description of the states:

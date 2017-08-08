@@ -1,6 +1,6 @@
 # RetroArch-problematic-cheevos
 
-## UPDATE: after the latest RetroArch fixes (01/Nov/2016) many of these problematic cheevos are already solved! A [core compatibility list can be found here](https://github.com/meleu/RetroArch-problematic-cheevos/blob/master/core_compatibility.md).
+## UPDATE: after the latest RetroArch fixes (01/Nov/2016) many of these problematic cheevos are already solved! A [core compatibility list can be found here](https://github.com/libretro/RetroArch/wiki/RetroAchievements).
 
 A place to put the savestates of games with cheevos problems when running in RetroArch and no problems in "official" emulators.
 

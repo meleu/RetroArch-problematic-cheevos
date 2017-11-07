@@ -1,13 +1,28 @@
 # RetroArch-problematic-cheevos
 
-## UPDATE: after the latest RetroArch fixes (01/Nov/2016) many of these problematic cheevos are already solved! A [core compatibility list can be found here](https://github.com/libretro/RetroArch/wiki/RetroAchievements).
+A place to report **AND** provide useful savestates to help RetroArch developers to solve problems with achievements that don't work on RetroArch AND work fine on the oficial RetroAchievements.org emulators.
 
-A place to put the savestates of games with cheevos problems when running in RetroArch and no problems in "official" emulators.
 
-### The idea of this repository is to provide useful savestates to help RetroArch developers solve problems with achievements that don't work in RetroArch AND work fine in the oficial RetroAchievements.org emulators. Only this!
+# HOW TO REPORT A RETROARCH PROBLEM WITH RETROACHIEVEMENTS
 
-The structure is:
+If you have a github account you can open an issue here: https://github.com/meleu/RetroArch-problematic-cheevos/issues/
 
-- directory with Name-Of-The-Game-SYSTEM.
-  - README.txt: describing the problems with the achievements and describing the savestates
-  - *.state: the files with the states saved right before the problematic achievement. No need to rename the state! Let the name the file gets from RetroArch (usually "Name of ROM.state")
+If you don't have a github account, you can post your issue in this RetroAchievements.org forum thread: http://retroachievements.org/viewtopic.php?t=5361
+
+
+1. Update your RetroArch and the related core. And check if the issue still happens.
+
+2. You have to be sure that the problem happens with RetroArch and does NOT happen with official emulators. Sorry, but I need to highlight it YOU NEED TO BE SURE THAT THE PROBLEM DOES NOT HAPPEN IN OFFICIAL EMULATORS BEFORE REPORTING AN ISSUE. If you don't have a Windows machine, ask a friend who has to test the cheevo on the official emulator for you. I do it many times (thanks [user=R1n0x] :) ).
+
+3. Playing on RetroArch, generate a save state right before the condition needed to trigger the cheevo (you need to turn off hardcore mode in order to generate a save state).
+  3.1. Upload your savestate somewhere (if opening an issue at github, you can attach zip files).
+
+4. Post your issue detailing
+  4.1. How do you know that the cheevo works fine with the official emulator.
+  4.2. What RetroArch version and what core are you using (please don't say "latest").
+  4.2. The steps to reproduce your issue on RetroArch.
+  4.3. Post links to the game and the cheevos you're facing problems.
+  4.4. Post link to your savestate (if on github, you can attach zip files).
+
+
+Thanks in advance!

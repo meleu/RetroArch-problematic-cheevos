@@ -1,3 +1,3 @@
 # libretro cores compatibility with RetroAchievements
 
-**This is now at RetroArch wiki: https://github.com/libretro/RetroArch/wiki/RetroAchievements**
+**This is now part of libretro docs: https://buildbot.libretro.com/docs/guides/retroachievements/**

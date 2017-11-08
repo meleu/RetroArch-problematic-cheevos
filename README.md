@@ -11,18 +11,15 @@ If you don't have a github account, you can post your issue in this RetroAchieve
 
 
 1. Update your RetroArch and the related core. And check if the issue still happens.
-
-2. You have to be sure that the problem happens with RetroArch and does NOT happen with official emulators. Sorry, but I need to highlight it YOU NEED TO BE SURE THAT THE PROBLEM DOES NOT HAPPEN IN OFFICIAL EMULATORS BEFORE REPORTING AN ISSUE. If you don't have a Windows machine, ask a friend who has to test the cheevo on the official emulator for you. I do it many times (thanks [user=R1n0x] :) ).
-
+2. You have to be sure that the problem happens with RetroArch and does NOT happen with official emulators. Sorry, but I need to highlight it YOU NEED TO BE SURE THAT THE PROBLEM DOES NOT HAPPEN IN OFFICIAL EMULATORS BEFORE REPORTING AN ISSUE. If you don't have a Windows machine, ask a friend who has to test the cheevo on the official emulator for you. I do it many times.
 3. Playing on RetroArch, generate a save state right before the condition needed to trigger the cheevo (you need to turn off hardcore mode in order to generate a save state).
-  3.1. Upload your savestate somewhere (if opening an issue at github, you can attach zip files).
-
+    1. Upload your savestate somewhere (if opening an issue at github, you can attach zip files).
 4. Post your issue detailing
-  4.1. How do you know that the cheevo works fine with the official emulator.
-  4.2. What RetroArch version and what core are you using (please don't say "latest").
-  4.2. The steps to reproduce your issue on RetroArch.
-  4.3. Post links to the game and the cheevos you're facing problems.
-  4.4. Post link to your savestate (if on github, you can attach zip files).
+    1. How do you know that the cheevo works fine with the official emulator.
+    2. What RetroArch version and what core are you using (please don't say "latest").
+    3. The steps to reproduce your issue on RetroArch.
+    4. Post links to the game and the cheevos you're facing problems.
+    5. Post link to your savestate (if on github, you can attach zip files).
 
 
 Thanks in advance!

@@ -23,4 +23,5 @@ If you don't have a github account, you can post your issue in this RetroAchieve
 
 
 Thanks in advance!
-@meleu
+
+[meleu](https://github.com/meleu)

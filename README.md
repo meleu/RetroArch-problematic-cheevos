@@ -1,3 +1,11 @@
+# This repo is not needed anymore!
+
+Currently RetroArch support for RetroAchievements is pretty solid and this repository is not necessary anymore.
+
+# :heart: huge thanks for everyone who helped with this! :heart:
+
+---
+
 # RetroArch-problematic-cheevos
 
 A place to report **AND** provide useful savestates to help RetroArch developers to solve problems with achievements that don't work on RetroArch AND work fine on the oficial RetroAchievements.org emulators.
